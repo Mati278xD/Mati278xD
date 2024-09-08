@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Mati278xD
 - 😼 I'm here to learn more about codes
 
-I work on:
-
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-
 Im learning:
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
