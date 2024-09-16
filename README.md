@@ -5,7 +5,6 @@ Im learning:
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
-https://raw.githubusercontent.com/thehairy/thehairy/output/github-contribution-grid-snake-dark.svg
 
 <!---
 Mati278xD/Mati278xD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
