@@ -1,7 +1,9 @@
 ![status](https://api.statusbadges.me/badge/status/1206408814870659113?simple=true) [![spotify](https://api.statusbadges.me/badge/spotify/1206408814870659113)](https://api.statusbadges.me/openspotify/1206408814870659113)
 
-- 👋 Hi, I’m me
+- 👋 Hi, Im me
+
 - 😼 I'm here to learn more about codes
+
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/6d71241d-6f5b-4947-b277-20a682148313)
 
 <!---
