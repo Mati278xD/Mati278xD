@@ -2,6 +2,10 @@
 
 ![IMG_20240916_180959](https://github.com/user-attachments/assets/c2dfefb6-e120-44b7-b7ba-c5cf17e7ad14) 
 
+**<span style="color: #00BFFF;">Nombre</span>**: Matías  
+**<span style="color: #00BFFF;">Hobbies</span>**: Muchos
+**<span style="color: #00BFFF;">Discord</span>**: Admin en Slaming y Cubercord
+
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/6d71241d-6f5b-4947-b277-20a682148313)
 
 <!---
