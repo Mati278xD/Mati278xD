@@ -1,7 +1,10 @@
 ```csharp
-> Datos de actividad
+> Datos de actividad:
 ```
 ![status](https://api.statusbadges.me/badge/status/1206408814870659113?simple=true&style=for-the-badge) [![spotify](https://api.statusbadges.me/badge/spotify/1206408814870659113?style=for-the-badge)](https://api.statusbadges.me/openspotify/1206408814870659113) ![playing](https://api.statusbadges.me/badge/playing/1206408814870659113?style=for-the-badge) ![vscode](https://api.statusbadges.me/badge/vscode/1206408814870659113?style=for-the-badge)
+```csharp
+> Random:
+```
 
 ![IMG_20240916_180959](https://github.com/user-attachments/assets/c2dfefb6-e120-44b7-b7ba-c5cf17e7ad14) 
 
